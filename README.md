@@ -11,3 +11,6 @@ About me 👻:
 - 💬 Ask me about HTML5, CSS3 and JavaScript.
 - 📫 How to reach me: @ignaprados at Instagram, Ignacio Prados at LinkedIn.
 - ⚡ I love learning new things and exploring new technologies.
+
+IF YOU WANT TO CONTACT ME:
+https://www.linkedin.com/in/ignacioprados/
