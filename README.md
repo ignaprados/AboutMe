@@ -12,5 +12,5 @@ About me 👻:
 - 📫 How to reach me: @ignaprados at Instagram, Ignacio Prados at LinkedIn.
 - ⚡ I love learning new things and exploring new technologies.
 
-IF YOU WANT TO CONTACT ME:
+CONTACT ME:
 https://www.linkedin.com/in/ignacioprados/
