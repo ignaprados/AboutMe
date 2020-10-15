@@ -1,7 +1,10 @@
-### Welcome to my GitHub!
+### Welcome to my GitHub! 👋
 <!-- **IgnacioPrados/Ignacio-Prados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-About me:
+![banner](https://github.com/IgnacioPrados/Ignacio-Prados/blob/main/github%20banner.jpg?raw=true)
+
+
+About me 👻:
 
 - 📚 I’m in my last year of High school.
 - 💻 I’m currently learning Web and mobile development.
