@@ -15,5 +15,5 @@ About me 👻:
 CONTACT ME:
 https://www.linkedin.com/in/ignacioprados/
 
-OFICIAL WEBSITE:
+MY WEBSITE:
 https://ignacioprados.github.io/web
