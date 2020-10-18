@@ -16,4 +16,4 @@ CONTACT ME:
 https://www.linkedin.com/in/ignacioprados/
 
 OFICIAL WEBSITE:
-ignacioprados.github.io/web
+https://ignacioprados.github.io/web
