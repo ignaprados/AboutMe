@@ -6,10 +6,10 @@
 
 About me 👻:
 
-- 📚 I’m in my last year of High school.
+- 📚 I’m in my first year of Informatic Engineering.
 - 💻 I’m currently learning Web and mobile development.
-- 💬 Ask me about HTML5, CSS3 and JavaScript.
-- 📫 How to reach me: @ignaprados at Instagram, Ignacio Prados at LinkedIn.
+- 💬 Ask me about my projects!
+- 📫 How to reach me: ignacioprados.ip@gmail.com
 - ⚡ I love learning new things and exploring new technologies.
 
 CONTACT ME:
