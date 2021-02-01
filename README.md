@@ -18,8 +18,5 @@ https://www.linkedin.com/in/ignacioprados/
 MY WEBSITE:
 https://ignacioprados.github.io/web
 
-MY CV:
-https://ignacioprados.github.io/web/assets/img/CV-IgnacioPrados.pdf
-
 DEV Community:
 https://dev.to/ignacioprados
