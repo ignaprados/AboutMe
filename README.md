@@ -13,7 +13,7 @@ About me 👻:
 - ⚡ I love learning new things and exploring new technologies.
 
 CONTACT ME:
-https://www.linkedin.com/in/ignacioprados/
+https://www.linkedin.com/in/ignacioprados
 
 MY WEBSITE:
 https://ignacioprados.github.io/web
