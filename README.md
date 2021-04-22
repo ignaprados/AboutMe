@@ -20,3 +20,5 @@ https://ignacioprados.github.io/web
 
 DEV Community:
 https://dev.to/ignacioprados
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPrados)](https://github.com/anuraghazra/github-readme-stats)
