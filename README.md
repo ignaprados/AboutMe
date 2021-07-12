@@ -16,7 +16,7 @@ CONTACT ME:
 https://www.linkedin.com/in/ignacioprados
 
 MY WEBSITE:
-https://ignacioprados.github.io/web
+https://ignacioprados.vercel.app
 
 DEV Community:
 https://dev.to/ignacioprados
