@@ -1,7 +1,7 @@
 ### Welcome to my GitHub!
 <!-- **IgnacioPrados/Ignacio-Prados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![banner](https://github.com/IgnacioPrados/IgnacioPrados/blob/main/BANNERGITHUB.jpg?raw=true)
+![banner](https://github.com/IgnacioPrados/IgnacioPrados/blob/main/LinkedinBanner.png?raw=true)
 
 
 About me 👻:
