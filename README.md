@@ -28,14 +28,14 @@
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![ExpressJS](https://img.icons8.com/color/30/express.png)![Bootstrap](https://img.icons8.com/color/30/bootstrap.png)![JQuery](https://img.icons8.com/ios-filled/30/000000/jquery.png)![SASS](https://img.icons8.com/color/30/sass.png)![Python](https://img.icons8.com/color/30/000000/python--v1.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/fluency/30/000000/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)<!--![VueJS](https://img.icons8.com/color/30/vue-js.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)-->![Console](https://img.icons8.com/color/30/console.png)![Figma](https://img.icons8.com/color/30/000000/figma--v1.png)![XD](https://img.icons8.com/color/30/000000/adobe-xd--v1.png)![Illustrator](https://img.icons8.com/color/30/000000/adobe-illustrator.png)![Photoshop](https://img.icons8.com/color/30/000000/adobe-photoshop.png)![Lightroom](https://img.icons8.com/color/30/000000/adobe-lightroom.png)![Lightroom](https://img.icons8.com/color/30/000000/adobe-premiere-pro.png)
 
+### Spotify Playing 🎧 
+
+>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ignamusic02&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ignamusic02&redirect=true)
+
 ###  GitHub Stats ⚙
 >[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPrados&show_icons=true&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)
  <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioPrados&layout=compact&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Spotify Playing 🎧 
-
->[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ignamusic02&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ignamusic02&redirect=true)
- 
 <br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF521799.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ignaciodev)<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)--> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacioprados)<!--  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/)  [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/ignacioprados)--> [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ignaciodev)
