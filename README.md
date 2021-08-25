@@ -26,15 +26,12 @@
 
 
 ###  Stats
->[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPrados&show_icons=true&title_color=8b72af&icon_color=8b72af&bg_color=000&text_color=FFF)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioPrados&layout=compact&title_color=8b72af&icon_color=8b72af&bg_color=000&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPrados&show_icons=true&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)
+> <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioPrados&layout=compact&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br><br>
 [![Facebook](https://img.shields.io/badge/Instagram-%23FF5120.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ignaciodev)<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)--> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacioprados)<!--  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/) --> [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/ignacioprados) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ignaciodev)
-
-
-
 
 
 
