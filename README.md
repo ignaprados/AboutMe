@@ -1,22 +1,26 @@
 ![banner](https://raw.githubusercontent.com/IgnacioPrados/IgnacioPrados/main/Linkedin%20Banner.png)
-### Welcome to my GitHub!
+# `Hello World!`
 <!-- **IgnacioPrados/Ignacio-Prados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-About me 👻:
+### About me 🧠:
 
-- 📚 I’m in my first year of Informatic Engineering.
+- 📚 I’m in my first year of Computer Engineering.
 - 💻 I’m currently learning Web and mobile development.
 - 💬 Ask me about my projects!
 - 📫 How to reach me: ignacioprados.ip@gmail.com
 - ⚡ I love learning new things and exploring new technologies.
+- 🚩 I'm looking for a job as a Front-End Developer.
 
-CONTACT ME:
-https://www.linkedin.com/in/ignacioprados
+###  Portfolio 💻
+> https://ignacioprados.vercel.app
 
-MY WEBSITE:
-https://ignacioprados.vercel.app
+###  LinkedIn 🌎
+> https://www.linkedin.com/in/ignacioprados
 
-DEV Community:
-https://dev.to/ignacioprados
+###  Instagram 📸
+> https://www.instagram.com/ignaciodev
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPrados)](https://github.com/anuraghazra/github-readme-stats)
+
+###  Stats
+>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPrados)](https://github.com/anuraghazra/github-readme-stats)
+
