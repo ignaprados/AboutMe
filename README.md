@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/IgnacioPrados/IgnacioPrados/main/Banner.png)
+![banner](https://raw.githubusercontent.com/IgnacioPrados/IgnacioPrados/main/giphy%20(1).gif)
 # `Hello World!`
 <!-- **IgnacioPrados/Ignacio-Prados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
