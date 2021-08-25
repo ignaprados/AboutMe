@@ -13,13 +13,13 @@
 - 🚩 I'm looking for a job as a Front-End Developer.
 
 ###  Portfolio 💻
-> https://ignacioprados.vercel.app
+> <a href="https://ignacioprados.vercel.app"  target="_blank">ignacioprados.vercel.app</a>
 
 ###  Contact Me 🌎
-> https://www.linkedin.com/in/ignacioprados
+> <a  href="https://www.linkedin.com/in/ignacioprados"  target="_blank">linkedin.com/in/ignacioprados</a>
 
 ###  Tech Content Here 📸
-> https://www.instagram.com/ignaciodev
+> <a  href="https://www.instagram.com/ignaciodev"  target="_blank">instagram.com/ignaciodev</a>
 
 ###  Support Me ☕
 > https://www.buymeacoffee.com/ignaciodev
@@ -32,6 +32,5 @@
 
 <br><br>
 [![Facebook](https://img.shields.io/badge/Instagram-%23FF5120.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ignaciodev)<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)--> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacioprados)<!--  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/) --> [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/ignacioprados) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ignaciodev)
-
 
 
