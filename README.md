@@ -1,7 +1,7 @@
 <!-- **IgnacioPrados/Ignacio-Prados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # `Hello World! I'm Ignacio Prados`
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=8b72af&size=24&width=500&lines=Argentinian+Software+Developer.;Front-End+Developer.;UI+Designer.+;Computer+Engineering+Student.;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=8b72af&size=24&width=500&lines=Argentinian+Software+Developer.;Front-End+Developer.;UI+Designer.;Computer+Engineering+Student.;Tech+Enthusiast;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 ### About Me 🧠
 - 📚 I’m in my first year of Computer Engineering.
