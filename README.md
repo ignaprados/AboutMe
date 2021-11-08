@@ -9,7 +9,7 @@
 - 💬 Ask me about my projects!
 - 📫 How to reach me: ignacioprados.ip@gmail.com
 - ⚡ I love learning new things and exploring new technologies.
-- 🚩 I'm looking for a job as a Front-End Developer.
+- 🚩 I'm working as a Freelance Front-End Developer & UI Designer.
 
 ###  Portfolio 💻
 > <a href="https://ignacioprados.vercel.app"  target="_blank">ignacioprados.vercel.app</a>
