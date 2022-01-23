@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=8b72af&size=24&width=500&lines=Argentinian+Software+Developer.;Front-End+Developer.;UI+Designer.;Computer+Engineering+Student.;Tech+Enthusiast.;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 ### About Me 🧠
-- 📚 I’m in my first year of Computer Engineering.
+- 📚 I’m in second year of Computer Engineering.
 - 💻 I’m currently learning Web and mobile development.
 - 💬 Ask me about my projects!
 - 📫 How to reach me: ignacioprados.ip@gmail.com
