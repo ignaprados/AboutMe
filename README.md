@@ -12,7 +12,7 @@
 - 🚩 I'm working as a Freelance Front-End Developer & UI Designer.
 
 ###  Portfolio 💻
-> <a href="https://ignacioprados.vercel.app"  target="_blank">ignacioprados.vercel.app</a>
+> <a href="https://ignacioprados.vercel.app"  target="_blank">ignacioprados.codes</a>
 
 ###  Contact Me 🌎
 > <a  href="https://www.linkedin.com/in/ignacioprados"  target="_blank">linkedin.com/in/ignacioprados</a>
